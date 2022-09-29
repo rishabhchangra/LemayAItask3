@@ -32,8 +32,7 @@ python -m ipykernel install --user --name=myenv
 - Open the file task3.ipynb
 - Run all cells to view the analysis 
 
-# Please explain why you have chosen this model as your demonstration?
+# Please explain why you have chosen this dataset for your demonstration of exploratory data analysis?
 I have chosen this model for demonstration because I have never worked on Text Data. During my academic projects I worked either with Numerical data or 
-Image based data. So it was a good opportunity for me to explore the text analysis. I wanted to understand how we do the pre processing, what aspects of text data are important from Analysis perspective,
-what kind of packages we use, what kind of issues can we run into and how do we resolve them. Text Sentiment Analysis or Natural Language Processing in general is an interesting domain and I want to explore more about it by working on different projects 
+Image based data. So it was a good opportunity for me to explore the text analysis. I wanted to understand how we do the pre processing, what aspects of text data are important from Analysis perspective,what kind of packages we use, what kind of issues can we run into and how do we resolve them. Another reason for selecting this dataset is that there is a lot of room for exploratory data analysis when it comes to text data compared to image based data, making a better choice to demostrate my skills. Text Sentiment Analysis or Natural Language Processing in general is an interesting domain and I want to explore more about it by working on different projects 
 such as this. This task helped me get a slight peek into the subject and I am confident that I will explore the next steps in the process such as fitting a Machine Learning Model on the pre processed data.
