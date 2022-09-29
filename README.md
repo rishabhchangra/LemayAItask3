@@ -29,7 +29,7 @@ python -m ipykernel install --user --name=myenv
 
 
 - Launch Jupyter Notebook or any other python notebook IDE
-- Open the file task.ipynb
+- Open the file task3.ipynb
 - Run all cells to view the analysis 
 
 # Please explain why you have chosen this model as your demonstration?
